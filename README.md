@@ -12,10 +12,10 @@ Learn more by reading the [overview document](https://github.com/xlmglobe/xlm-gl
 Documentation of the code's layout and abstractions, as well as for the
 functionality available, can be found in
 [`./docs`](https://github.com/xlmglobe/xlm-globe/).
-XLM globe operation plan[`./docs`](http://note.youdao.com/noteshare?id=23c459877cb28ea947dd8e29d418d7aa).
+[XLM globe operation plan](http://note.youdao.com/noteshare?id=23c459877cb28ea947dd8e29d418d7aa).
 
 # Documentation
-XLM globe foundation licence [`./docs`](http://note.youdao.com/noteshare?id=d68fe8bc79198374651ba5d261aa887b).
+ [XLM globe foundation licence](http://note.youdao.com/noteshare?id=d68fe8bc79198374651ba5d261aa887b).
 
 # Installation
 
