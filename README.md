@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/stellar/stellar-core.svg?branch=auto)](https://travis-ci.org/stellar/stellar-core)
+# XLM globe only official website, Click to enter
+[![Register XLM globe nodes](https://www.xlmglobe.com)
 
 
 # xlm globe&stellar-core
