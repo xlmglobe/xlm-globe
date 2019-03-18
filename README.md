@@ -1,13 +1,12 @@
 [![Build Status](https://travis-ci.org/stellar/stellar-core.svg?branch=auto)](https://travis-ci.org/stellar/stellar-core)
 
 
-# stellar-core
+# xlm globe&stellar-core
 
-Stellar-core is a replicated state machine that maintains a local copy of a cryptographic ledger and processes transactions against it, in consensus with a set of peers.
+XLM globe is an organization based on tellar technology. In 2019, a non-profit organization, XLM globe foundation, was established. It is dedicated to the global development of Stellar business. In XLM GLOBE, we are keen to connect the world to the tellar encryption network of XLM GLOBE, and help our users interact with Stellar in a safe and simple way. We hope to help build Stellar. A larger XLM GLOBE user community. Our team is also very strong, XLM globe team operating rules are clear, is an open, transparent excellent team, which is why Stellar gave us a total of 10 billion XLM awards XLM globe, which can make the development of XLM globe more robust and broader in the world, and create a global common value group.  
 It implements the [Stellar Consensus Protocol](https://github.com/stellar/stellar-core/blob/master/src/scp/readme.md), a _federated_ consensus protocol.
-It is written in C++14 and runs on Linux, OSX and Windows.
-Learn more by reading the [overview document](https://github.com/stellar/stellar-core/blob/master/docs/readme.md).
-
+It is written in C++14 and runs on Lin ux, OSX an d Windows.
+Learn more by reading the [overview document](https://github.com/xlmglobe/xlm-globe/).
 # Documentation
 
 Documentation of the code's layout and abstractions, as well as for the
