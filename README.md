@@ -1,5 +1,5 @@
 # XLM globe only official website, Click to enter
-[![Register XLM globe nodes](https://www.xlmglobe.com)
+[Register XLM globe nodes](https://www.xlmglobe.com)
 
 
 # xlm globe&stellar-core
